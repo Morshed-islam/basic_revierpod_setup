@@ -1,4 +1,4 @@
-# auto_care_vendor
+# Riverpod basic project structure setup
 
 A new Flutter project.
 
